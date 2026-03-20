@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HandWritten"
+     xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Minimal Test</name>
+    <desc>A minimal GPX file for testing</desc>
+    <time>2024-06-15T10:00:00Z</time>
+  </metadata>
+  <wpt lat="47.6062" lon="-122.3321">
+    <name>Seattle</name>
+    <ele>56.0</ele>
+  </wpt>
+</gpx>

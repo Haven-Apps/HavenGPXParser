@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="TestGenerator"
+     xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Morning Run</name>
+    <author><name>Test Runner</name></author>
+    <time>2024-07-01T06:30:00Z</time>
+  </metadata>
+  <trk>
+    <name>Morning Run Track</name>
+    <type>Running</type>
+    <trkseg>
+      <trkpt lat="37.7749" lon="-122.4194">
+        <ele>16.0</ele>
+        <time>2024-07-01T06:30:00Z</time>
+      </trkpt>
+      <trkpt lat="37.7750" lon="-122.4180">
+        <ele>18.5</ele>
+        <time>2024-07-01T06:30:30Z</time>
+      </trkpt>
+      <trkpt lat="37.7755" lon="-122.4170">
+        <ele>20.1</ele>
+        <time>2024-07-01T06:31:00Z</time>
+      </trkpt>
+      <trkpt lat="37.7760" lon="-122.4160">
+        <ele>22.3</ele>
+        <time>2024-07-01T06:31:30Z</time>
+      </trkpt>
+      <trkpt lat="37.7765" lon="-122.4150">
+        <ele>19.8</ele>
+        <time>2024-07-01T06:32:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

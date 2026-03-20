@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Garmin Connect"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+  <metadata>
+    <name>Afternoon Hike</name>
+    <desc>A hike recorded with Garmin watch</desc>
+    <author><name>Garmin User</name></author>
+    <time>2024-08-10T14:00:00Z</time>
+  </metadata>
+  <trk>
+    <name>Afternoon Hike</name>
+    <type>Hiking</type>
+    <trkseg>
+      <trkpt lat="46.8523" lon="-121.7603">
+        <ele>1631.0</ele>
+        <time>2024-08-10T14:00:00Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>95</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8530" lon="-121.7590">
+        <ele>1645.0</ele>
+        <time>2024-08-10T14:05:00Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>110</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.8540" lon="-121.7575">
+        <ele>1680.0</ele>
+        <time>2024-08-10T14:10:00Z</time>
+        <sat>12</sat>
+        <hdop>0.9</hdop>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="46.8550" lon="-121.7560">
+        <ele>1710.0</ele>
+        <time>2024-08-10T14:30:00Z</time>
+      </trkpt>
+      <trkpt lat="46.8560" lon="-121.7545">
+        <ele>1735.0</ele>
+        <time>2024-08-10T14:35:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
